@@ -1,0 +1,77 @@
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\ApplicationIcon.jpg
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Background.jpg
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Mvvm.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Mvvm.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\AppManifest.xaml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Mvvm.xap
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\App.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\Views\CountryDetails.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\Views\MainPage.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\Mvvm.g.resources
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\Mvvm.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\Mvvm.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\XapCacheFile.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\Mvvm.csprojResolveAssemblyReference.cache
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\ApplicationIcon.jpg
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Background.jpg
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Mvvm.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Mvvm.pdb
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\AppManifest.xaml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Mvvm.xap
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Microsoft.Expression.Interactions.xml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\System.Windows.Interactivity.xml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\App.g.i.cs
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\Views\CountryDetails.g.i.cs
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\Views\MainPage.g.i.cs
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\Mvvm.g.resources
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\Mvvm.dll
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\Mvvm.pdb
+C:\Users\Sevdanur\Desktop\PrepToIletisimSoftware\Acik Akademiye Phone Uygulamalari\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Release\XapCacheFile.xml

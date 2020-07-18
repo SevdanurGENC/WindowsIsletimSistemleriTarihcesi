@@ -1,0 +1,212 @@
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\ResolveAssemblyReference.cache
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\App.g.i.cs
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\Mvvm.g.resources
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\ApplicationIcon.jpg
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\Background.jpg
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\Mvvm.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\Mvvm.pdb
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\AppManifest.xaml
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\Mvvm.xap
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\Mvvm.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\Mvvm.pdb
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\XapCacheFile.xml
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\Views\CountryDetails.g.i.cs
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\Views\MainPage.g.i.cs
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\System.Windows.Interactivity.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\System.Windows.Interactivity.xml
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Uni\Microsoft Student Partners\Vorträge\Silverlight\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\ApplicationIcon.jpg
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\Background.jpg
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\Mvvm.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\Mvvm.pdb
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\AppManifest.xaml
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\Mvvm.xap
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\App.g.i.cs
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\Views\CountryDetails.g.i.cs
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\Mvvm.g.resources
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\Mvvm.dll
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\Mvvm.pdb
+C:\Users\Jan\Desktop\MVVM - Ein modernes Design-Pattern in Silverlight\Mvvm\Mvvm\obj\Debug\XapCacheFile.xml
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\ApplicationIcon.jpg
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\Background.jpg
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\Mvvm.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\Mvvm.pdb
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\AppManifest.xaml
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\Mvvm.xap
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\App.g.i.cs
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\Views\CountryDetails.g.i.cs
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\Mvvm.g.resources
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\Mvvm.dll
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\Mvvm.pdb
+C:\Users\sevda_000\Desktop\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\XapCacheFile.xml
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\ApplicationIcon.jpg
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\Background.jpg
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\Mvvm.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\Mvvm.pdb
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\AppManifest.xaml
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\Mvvm.xap
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\System.Windows.Interactivity.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\System.Windows.Interactivity.xml
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\App.g.i.cs
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\Views\CountryDetails.g.i.cs
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\Views\MainPage.g.i.cs
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\Mvvm.g.resources
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\Mvvm.dll
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\Mvvm.pdb
+C:\Nano\Simple MVVM and Windows Phone 7\C#\Mvvm\obj\Debug\XapCacheFile.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\ApplicationIcon.jpg
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\Background.jpg
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\Mvvm.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\Mvvm.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\AppManifest.xaml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\Mvvm.xap
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Debug\App.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Debug\Views\CountryDetails.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Debug\Mvvm.g.resources
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Debug\Mvvm.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Debug\Mvvm.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Debug\XapCacheFile.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\ApplicationIcon.jpg
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\Background.jpg
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\Mvvm.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\Mvvm.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\AppManifest.xaml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\Mvvm.xap
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Debug\App.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Debug\Views\CountryDetails.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Debug\Mvvm.g.resources
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Debug\Mvvm.dll
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Debug\Mvvm.pdb
+C:\Users\sevda_000\Documents\Visual Studio 2010\Projects\Acik Akademiye Gonderilecekler\WindowsIsletimSistemleriTarihcesi\Mvvm\obj\Debug\XapCacheFile.xml
