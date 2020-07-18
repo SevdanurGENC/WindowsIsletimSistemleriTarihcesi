@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Countries>
+  <Country>
+    <Name>Windows 1.0</Name>
+    <Flag>../Images/windows_1_0.png</Flag>
+    <ID>1</ID>
+    <Description>Microsoft'un MS-DOS adlı işletim sistemi üzerinde oluşturduğu grafik arayüz (GUI) içeren işletim sistemi ailesi Windows'un ilk sürümüdür. 1986'da Avrupa'da piyasaya sürüldüğünde çok fazla satmamıştır. MS-DOS dosya yönetim programı, bir takvim, kart dosyası, not defteri, hesap makinesi, saat ve iletişim programlarından oluşan, kullanıcıların günlük etkinliklerini yönetmelerinde yardımcı olan bir grup masaüstü uygulaması içeriyordu.</Description>
+    <Capital>1985</Capital>
+  </Country>
+  <Country>
+    <Name>Windows 2.0</Name>
+    <Flag>../Images/windows_2_0.png</Flag>
+    <ID>2</ID>
+    <Description>Microsoft'un MS-DOS adlı işletim sistemi üzerinde oluşturduğu grafik arayüz (GUI) içeren işletim sistemi ailesi Windows'un ikinci sürümüdür.Microsoft'un meşhur Word ve Excel yazılımları, ilk kez bu işletim sistemi üzerinde kullanılmaya başlanmıştır. Windows'un ikinci sürümü pek çok yeni özellik içeriyordu; Windows 2.0 ile Microsoft, Intel 286 işlemcinin gelişmiş işlem hızından, genişletilmiş bellekten ve Dinamik Veri Alışverişi (DDE) kullanarak uygulamalar arası iletişim özelliklerinden yararlanıyordu. Windows 2.0 sürümünde VGA grafik standardı desteği de bulunuyor ve kullanıcılara pencereleri birbiri üzerine koyabilme, ekran düzenini ayarlayabilme ve klavye bileşimlerini kullanarak Windows işlemleri arasında hızla geçiş yapabilme olanağı tanıyordu.</Description>
+    <Capital>1987</Capital>
+  </Country>
+  <Country>
+    <Name>Windows 3.0</Name>
+    <Flag>../Images/windows_3_0.png</Flag>
+    <ID>3</ID>
+    <Description>Microsoft'un MS-DOS adlı işletim sistemi üzerinde oluşturduğu grafik arayüz (GUI) içeren işletim sistemi ailesi Windows'un üçüncü sürümüdür.İlk olarak 22 Mayıs 1990 tarihinde piyasaya sürülmüştür. Windows 3.0'ın başlıca yenilikleri şunlardır; Intel'in 80286 ve 80386 işlemcilerinin Bellek Yönetimi özelliğini öncüllerine kıyasla daha iyi kullanabilmekteydi Kullanıcı Arayüzü Windows 2.1x'e göre geliştirilmişti. MS-DOS için yazılan metin-tarzı programları pencere içinde çalıştırabilme özelliğine sahipti(bu özellik Windows/386 2.1'de daha kısıtlı olarak bulunuyordu).</Description>
+    <Capital>1990</Capital>
+  </Country>
+  <Country>
+    <Name>Windows 3.1</Name>
+    <Flag>../Images/windows_3_1.png</Flag>
+    <ID>4</ID>
+    <Description>Windows 3.x, Microsoft firması tarafından 18 Mart 1992 tarihinde piyasaya sürülen MS-DOS tabanlı grafik arayüzü.1992 yılında ön sürümleri çıkan 3.x serisi, güvenlik ve geliştirme gereklilikleri nedeniyle tam olarak ancak 1994 yılında piyasaya sürülmüştür.Bu sürüm ile Windows, ağ özelliklerine sahip hale gelmiştir. Başlangıçta adının Janus olacağı duyurulan Windows 3.1 ilk kez TrueType yazı tipi özelliği kullanılmıştır. Önemli olarak belirtilmesi gereken bir diğer nokta ise Windows for Workgroups (WfW3.11) ile gelen 32 bit disk erişimidir. Takas dosyası işlemlerinde bu şekilde önemli performans artışları sağlanmıştır. Ayrıca Reversi oyununun yerini Mayın Tarlası oyunu almıştır, Internet Explorer desteği sağlanmıştır ve Microsoft Office sonraki sürümlerine yükseltilmiştir.</Description>
+    <Capital>1992</Capital>
+  </Country>
+  <Country>
+    <Name>Windows 95</Name>
+    <Flag>../Images/windows_95.png</Flag>
+    <ID>5</ID>
+    <Description>Windows 95, Microsoft'un ürettiği işletim sistemi ailesi Windows'un MS-DOS üzerinde yükselen dördüncü ana sürümüdür. Masaüstü, ilk kez Windows 95 ile işlev kazandı. Sağ tık, ilk kez Windows 95 ile işlev kazandı. Başlat ya da Start düğmesi Windows 95 ile beraber Windows sürümlerinin vazgeçilmez bir parçası haline geldi.</Description>
+    <Capital>1995</Capital>
+  </Country>
+  <Country>
+    <Name>Windows 98</Name>
+    <Flag>../Images/windows_98.png</Flag>
+    <ID>6</ID>
+    <Description>Windows 98, Microsoft'un ürettiği işletim sistemi ailesi Windows'un MS-DOS üzerinde yükselen beşinci ana sürümüdür. Microsoft bu sürümle Windows 95'in eksiklerini kapatmaya ve Windows 3.1 sürümünden beri kısmen kaçırdığı çoklu ortam ve internet hizmetleri fırsatlarını yakalamaya çalışmıştır.25 Haziran 1998 tarihinde piyasaya sürülen Windows 98 önceleri Memphis ve Windows 97 kod adlarıyla biliniyordu. Öncüsü Windows 95 gibi, Windows 98 de 16-bit/32-bit arası hibrit çalışan bir işletim sistemidir. Eski numune bilgisayar sahiplerince donanım yetersizliği sebebiyle hala tercih edilebilmektedir. Windows 98 Second Edition ya da 98 SE Microsoft tarafından 1999 yılında piyasaya sürülen ve Windows 98'in bazı eksiklerini kapatan bir sürümdür.</Description>
+    <Capital>1998</Capital>
+  </Country>
+  <Country>
+    <Name>Windows Me</Name>
+    <Flag>../Images/windows_me.png</Flag>
+    <ID>7</ID>
+    <Description>Windows Me ya da Windows Millennium Edition, Microsoft'un ürettiği işletim sistemi ailesi Windows'un MS-DOS üzerinde yükselen altıncı ve son ana sürümüdür. 14 Eylül 2000 tarihinde piyasaya sürülmüştür. 16-bit/32-bit melez işletim sistemidir. Microsoft Windows ailesinin NT çekirdekli olmayan son temsilcisidir. Windows 98 sürümünün eksiklerini tamamlamak, ev ortamında kullanmak için geliştirilmiştir. Internet Explorer 5.5, Windows Media Player 7, ve yeni Windows Movie Maker gibi programlar içermektedir. Ayrıca Microsoft grafiksel kullanıcı arayüzünü güncellemiştir. Windows Me diğer Windows sürümlerine oranla daha az bir raf ömrüne sahip olmuştur.Sistem Geri Alma özelliği kısıtlı bir biçimde de olsa ilk kez bu sürümde kendine yer buldu. </Description>
+    <Capital>2000</Capital>
+  </Country>
+  <Country>
+    <Name>Windows NT 3.1</Name>
+    <Flag>../Images/windows_nt_3_1.png</Flag>
+    <ID>8</ID>
+    <Description>Windows NT 3.1, Microsoft'un ürettiği işletim sistemi ailesi Windows'un NT çekirdeği üzerinde yükselen ilk sürümüdür. NT ailesinin amacı, sunucu sistemleri ve kurumsal bilgisayarlar için üst düzey bir kullanım sunmaktır. İlk kez 23 Temmuz 1993 tarihinde piyasaya sürülmüştür. Sürüm numarası Windows 3.1'e vurgu yapmak için 3.1 olarak konulmuştur. NT 3.1'in arayüzü Windows 3.1'e oldukça benzemektedir. NT 3.1'in Windows 3.1 ile olan benzerliği, daha önce Windows 3.1 kullanan kullanıcılar için büyük kolaylık oluşturmuştur. Bu sayede NT daha fazla kişi tarafından kullanılmıştır.</Description>
+    <Capital>1993</Capital>
+  </Country>
+  <Country>
+    <Name>Windows NT 3.5</Name>
+    <Flag>../Images/windows_nt_3_5.png</Flag>
+    <ID>9</ID>
+    <Description>Windows NT 3.5, Microsoft'un ürettiği işletim sistemi ailesi Windows'un NT çekirdeği üzerinde yükselen ikinci ana sürümüdür. 21 Eylül 1994 tarihinde piyasaya sürülmüştür. Windows NT 3.5 geliştirilirken hedeflenen temel amaç, işletim sisteminin hızının arttırılmasıydı. Bu amacı çağrıştıracak şekilde, ürünün kod adı meşhur Daytona Uluslararası Yarış Pistinden esinlenilerek Daytona kondu. Microsoft bu sürümde NT 3.1'deki Windows NT ve Windows NT Advanced Server isimleri yerine sürümleri Windows NT Workstation ve Windows NT Server olarak adlandırmayı seçti. Başlangıç ekranı yenilendi.</Description>
+    <Capital>1994</Capital>
+  </Country>
+  <Country>
+    <Name>Windows NT 3.51</Name>
+    <Flag>../Images/windows_nt_3_51.png</Flag>
+    <ID>10</ID>
+    <Description>Windows NT 3.51, Microsoft'un ürettiği işletim sistemi ailesi Windows'un NT çekirdeği üzerinde yükselen üçüncü ana sürümüdür. 3.5 sürümünden 9 ay sonra, 30 Mayıs 1995 tarihinde piyasaya sürülmüştür. Kendsinden 3 ay sonra piyasaya sürülen Windows 95 ile uyumlu olan 3.51 sürümü, 31 Aralık 2001 taraihine kadar güncel tutulmuştur.</Description>
+    <Capital>1995</Capital>
+  </Country>
+  <Country>
+    <Name>Windows NT 4.0</Name>
+    <Flag>../Images/windows_nt_4_0.png</Flag>
+    <ID>11</ID>
+    <Description>Windows NT 4,Microsoft'un ürettiği işletim sistemi ailesi Windows'un NT çekirdeği üzerinde yükselen dördüncü ana sürümüdür.3.51 sürümünden 1 yıl sonra, 29 Haziran 1996 tarihinde piyasaya sürülmüştür. Windows NT 3.51'e göre getirmiş olduğu en büyük yenilik Windows 95 benzeri arabirimidir: bu sayede, kullanım konusunda çok büyük bir kolaylık sağlanmıştır. Windows NT 4'e Active Desktop'lu Internet Explorer yüklenmesiyle birlikte son derece kolay kullanımlı bir işletim sistemine sahip olunulabilmektedir. Öte yandan, özellikle çoklu ortam konusunda Windows NT 4 yetersiz kalmaktadır: DirectX desteği Windows NT ailesinde Windows 2000'den itibaren düzgün bir şekilde entegre edilmiştir.</Description>
+    <Capital>1996</Capital>
+  </Country>
+  <Country>
+    <Name>Windows 2000</Name>
+    <Flag>../Images/windows_2000.png</Flag>
+    <ID>12</ID>
+    <Description>Windows 2000, Microsoft'un ürettiği işletim sistemi ailesi Windows'un NT çekirdeği üzerinde yükselen beşinci ana sürümüdür. NT 4 sürümünden 3.5 yıl sonra, 17 Şubat 2000 tarihinde piyasaya sürülmüştür. Windows NT 5.0 adı ile çıkması beklenirken, Microsoft'un değişen sürüm isimlendirme kuralları gereği Windows 2000 adını almıştır. Windows 2000, Windows NT çekirdeği kullanması sayesinde, Windows 9x'ten çok daha kararlı çalışabilmektedir.Windows 2000'in Windows NT 4.0'a göre getirmiş olduğu yenilikler şu şekildedir: Kolay kullanımlı arabirime sahiptir. Windows Desktop Update Windows masaüstü güncelleştirmesi hizmeti eklendi.</Description>
+    <Capital>2000</Capital>
+  </Country>
+  <Country>
+    <Name>Windows XP</Name>
+    <Flag>../Images/windows_xp.png</Flag>
+    <ID>13</ID>
+    <Description>Windows XP, Microsoft'un kişisel bilgisayarlar ve sunucu sistemleri için ürettiği işletim sistemi ailesi Windows'un NT çekirdeği üzerinde yükselen altıncı ana sürümüdür. 25 Ekim 2001 tarihinde piyasaya sürülmüştür. XP adı experience (Türkçe: deneyim) kelimesinden gelir. Kullanım oranı Windows 7'nin altına inmiştir.</Description>
+    <Capital>2001</Capital>
+  </Country>
+  <Country>
+    <Name>Windows Server 2003</Name>
+    <Flag>../Images/windows_server_2003.png</Flag>
+    <ID>14</ID>
+    <Description>Windows Server 2003, 25 Nisan 2003'te piyasaya çıkan, Windows 2000 gibi, küçük ve merkezi yönetimli kuruluşlardan geniş çaplı kuruluşlara kadar her çapta kuruluşun gereksinimlerine yanıt vermek üzere tasarlanmış, ayrıca kuruluşların Microsoft .NET özelliğinden tam olarak yararlanabilmesini sağlayacak biçimde geliştirmiş sunucudur. Windows'un .NET adını taşıyan ilk sürümü olarak Windows Server 2003 ürünü Microsoft. NET Framework yapısını da içermektedir. Bu yapı geliştiricilerin XML Web hizmetleri oluşturmalarına ve bu hizmetleri geleneksel uygulamalarla birleştiren geleceğin uygulamalarını oluşturmalarına olanak verir.</Description>
+    <Capital>2003</Capital>
+  </Country>
+  <Country>
+    <Name>Windows Vista</Name>
+    <Flag>../Images/windows_vista.png</Flag>
+    <ID>15</ID>
+    <Description>Windows Vista (Türkçe: uzak manzara), kişisel bilgisayarlar için geliştirilen Microsoft Windows işletim sistemleri ailesinin sürüm olarak altıncı üyesidir. 22 Temmuz 2005'te gerçek adı duyurulmadan önce Longhorn kod adıyla tanınıyordu. Windows Vista, 30 Ocak 2007'de dünya çapında piyasaya sürülmüştür. Microsoft Türkiye, 24 Ocak 2007 tarihindeki tanıtımıyla Vista'nın resmî lansmanını yapan ilk Microsoft şubesi olmuştur.Windows Vista eski sürümle oranla birçok yeni özellik ve değişikliğe sahiptir.Bu değişim geliştirilmiş grafiksel kullanıcı arayüzü, görsel stil,yeniden tasarlanmış arama fonksiyonları, multimedya araçları, yeniden tasarlanmış ağ iletişimi,görüntü ve yazıcı gibi çeşitli fonksiyonları kapsar.</Description>
+    <Capital>2007</Capital>
+  </Country>
+  <Country>
+    <Name>Windows Home Server</Name>
+    <Flag>../Images/windows_home_server.png</Flag>
+    <ID>16</ID>
+    <Description>Windows Home Server, Microsoft tarafından ev ve küçük işyeri ağlarında kullanılmak amacıyla 16 Temmuz 2007 tarihinde piyasaya sürülen işletim sistemi. Home Server üzerinden yerel intranet hizmetleri ve terminal sunucu servisleri oluşturulabilir. Türkçe sürümü bulunmamaktadır. En son sürümü, Windows 7'ye benzeyen Home Server V2(vail) dir. Küçük işyeri ağlarına yönelik hazırlanan ve aralarında Türkçe'nin de bulunduğu 19 farklı dil seçeneği ile hazırlanmış olan Windows Home Server 2011, yapılan iyileştirme ve geliştirmeler neticesinde selefine oranla daha kolay yüklenebilirlik ve kullanılabilirliğe sahip olacak.</Description>
+    <Capital>2007</Capital>
+  </Country>
+  <Country>
+    <Name>Windows Server 2008</Name>
+    <Flag>../Images/windows_server_2008.png</Flag>
+    <ID>17</ID>
+    <Description>Windows Server 2008, sunucu tabanlı Microsoft Windows işletim sistemlerinin bir sürümüdür. Üretim için 4 Şubat 2008 tarihinde çıktı ve resmen 27 Şubat 2008 tarihinde yayımlandı, Windows Server 2003, halefine göre yaklaşık beş yıl önce piyasaya çıktı. Windows Server 2008 R2 adlı ikinci bir sürümü, üretim için 22 Temmuz 2009 tarihinde yayınlanmıştır. Windows Server 2008, Windows Vista ve Windows 7 gibi, Windows NT 6.x üzerine kuruludur.</Description>
+    <Capital>2008</Capital>
+  </Country>
+  <Country>
+    <Name>Windows 7</Name>
+    <Flag>../Images/windows_7.png</Flag>
+    <ID>18</ID>
+    <Description>Windows 7 (önceden Blackcomb ve Vienna kod adlı) Microsoft Windows'un perakendeye sunulmuş en son işletim sistemidir. Microsoft tarafından kişisel bilgisayarlar, masaüstü, dizüstü, netbooklar, Tablet PC ve media center bilgisayarlarda kullanılmak için çıkan bir işletim sistemidir. 22 Ekim 2009 tarihinde piyasaya sürülmüştür. Windows Vista Service Pack 2'nin yapımından 5 ay sonra çıkış tarihi Microsoft tarafından 22 Ekim 2009 olarak belirlenmiştir. 22 Temmuz 2009 tarihinde yapı numarası 6.1.7600 olan sürümü çıkmıştır ayrıca bu, RTM (Release To Manufacturing) yani üretime hazır sürümdür ve üreticilere ve Microsoft iş ortaklarına dağıtılmaya başlanmıştır.
+    </Description>
+    <Capital>2009</Capital>
+  </Country>
+  <Country>
+    <Name>Windows 8</Name>
+    <Flag>../Images/windows_8.png</Flag>
+    <ID>19</ID>
+    <Description>Windows 8; Windows 7'den sonra çıkan işletim sistemidir. RC sürümü 1 Temmuz 2011'de çıkmıştır. 2012 yılının sonbaharında piyasaya sunulması düşünülmektedir. Görünümü Windows Phone'a benzemektedir. 7 Ocak 2013'te piyasada olmuş olacaktır. Şu anda, Vista veya 7 için Windows Developer Preview yayındadır. Windows 8 için Windows Live ve Live ID unutulmamıştır. Windows 8'de çekirdek çökmesini belirtmek için eski sürümlerden farklı olarak artık üzgün surat ve BSOD ekranı olacak. Windows 8'de Metro arayüzü vardır. Windows 8, büyük diskleri (TB) daha iyi kullanacaktır. Windows 8'deki Windows Gezgini (Explorer) Ribbon arayüzü kullanacaktır. Windows 8 parolaları yönetme konusunda iyi olacak.</Description>
+    <Capital>2012</Capital>
+  </Country>  
+</Countries>
